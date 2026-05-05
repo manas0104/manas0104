@@ -18,9 +18,9 @@
 
 ## About
 
-I build AI-driven systems with a focus on real-world applicability — not just models that work in notebooks.
+I build AI-driven systems with a focus on real-world applicability - not just models that work in notebooks.
 Currently working as an AI Software Development Intern, I specialize in machine learning pipelines, backend systems, and security-oriented applications.
-My work sits at the intersection of applied ML and cybersecurity, where the goal isn't accuracy metrics alone — it's systems that hold up under real conditions.
+My work sits at the intersection of applied ML and cybersecurity, where the goal isn't accuracy metrics alone - it's systems that hold up under real conditions.
 
 ---
 
@@ -28,7 +28,7 @@ My work sits at the intersection of applied ML and cybersecurity, where the goal
 
 - Designing and training ML models for classification, detection, and threat analysis
 - Building hybrid AI systems that combine static models with live data intelligence
-- Applying ML to cybersecurity problems — phishing, anomaly detection, adversarial scenarios
+- Applying ML to cybersecurity problems - phishing, anomaly detection, adversarial scenarios
 - Writing clean, modular Python for production-grade data and ML pipelines
 
 ---
@@ -65,13 +65,13 @@ My work sits at the intersection of applied ML and cybersecurity, where the goal
 
 ## Featured Project
 
-### [PhishGuard](https://github.com/manas0104/phishguard) — Hybrid Phishing Detection System
+### [PhishGuard](https://github.com/manas0104/phishguard) - Hybrid Phishing Detection System
 
 > A dual-model phishing detection engine combining static ML with real-time domain intelligence.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Version-4.0-blue?style=flat-square" />
 
-Analyzes URL structure, SSL validity, WHOIS age, DNS records, and IP resolution in parallel — then fuses both model outputs using weighted scoring and rule-based override logic.
+Analyzes URL structure, SSL validity, WHOIS age, DNS records, and IP resolution in parallel - then fuses both model outputs using weighted scoring and rule-based override logic.
 
 - ~94% accuracy on structured phishing datasets
 - Detects zero-day phishing domains via live WHOIS and DNS lookups
