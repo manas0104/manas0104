@@ -1,18 +1,107 @@
-# 💫 About Me:
-🔭 Developing PhishGuard — an AI/ML-based phishing detection system focused on real-world threat intelligence and secure deployment<br>🧠 Strong interest in Applied Machine Learning, Deep Learning, and Cybersecurity with emphasis on adversarial and security-driven use cases<br>🛠️ Skilled in building end-to-end ML pipelines, from data preprocessing to model training and evaluation<br>🚀 Focused on scalable, production-oriented solutions rather than just theoretical models<br>🤝 Open to collaborating on AI/ML and security-focused projects with real impact<br>📈 Continuously learning advanced ML techniques, system design, and modern cybersecurity practices<br>💬 Open to discussions on model optimization, AI system design, and threat detection systems<br>⚡ Driven to build intelligent systems that are not only accurate, but resilient and secure
+# Manas Pandey
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/manas-pandey-691269330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manaspandey405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://stackoverflow.com/users/32689891">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-pandey-691269330/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32689891) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaspandey405@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manas0104&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manas0104&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manas0104&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+**AI & Software Developer · CS Undergraduate · AI Intern**
 
 ---
-[![](https://komarev.com/ghpvc/?username=manas0104&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build AI-driven systems with a focus on real-world applicability — not just models that work in notebooks.
+Currently working as an AI Software Development Intern, I specialize in machine learning pipelines, backend systems, and security-oriented applications.
+My work sits at the intersection of applied ML and cybersecurity, where the goal isn't accuracy metrics alone — it's systems that hold up under real conditions.
+
+---
+
+## What I Work On
+
+- Designing and training ML models for classification, detection, and threat analysis
+- Building hybrid AI systems that combine static models with live data intelligence
+- Applying ML to cybersecurity problems — phishing, anomaly detection, adversarial scenarios
+- Writing clean, modular Python for production-grade data and ML pipelines
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+**Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+</p>
+
+**Tools & Environment**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## Featured Project
+
+### [PhishGuard](https://github.com/manas0104/phishguard) — Hybrid Phishing Detection System
+
+> A dual-model phishing detection engine combining static ML with real-time domain intelligence.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Version-4.0-blue?style=flat-square" />
+
+Analyzes URL structure, SSL validity, WHOIS age, DNS records, and IP resolution in parallel — then fuses both model outputs using weighted scoring and rule-based override logic.
+
+- ~94% accuracy on structured phishing datasets
+- Detects zero-day phishing domains via live WHOIS and DNS lookups
+- Full confidence scoring and debug explainability output
+- Built end-to-end: data preprocessing → training → hybrid inference pipeline
+
+---
+
+## Current Focus
+
+<img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Building-PhishGuard_Web_UI-0A66C2?style=flat-square" /> <img src="https://img.shields.io/badge/Exploring-Adversarial_ML-EA4335?style=flat-square" />
+
+- Deepening system design knowledge for scalable ML deployment
+- Exploring adversarial ML and threat detection beyond URL-based signals
+- Building toward a web-accessible interface for PhishGuard (Streamlit / Flask)
+- Strengthening backend fundamentals for production AI systems
+
+---
+
+## GitHub Stats
+
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=manas0104&theme=dark&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manas-pandey-691269330/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
